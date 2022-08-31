@@ -1,2 +1,2 @@
 # Phobia PLC
-Private Limited Company _(Unregistered)_
+Private Limited Company  <sub><sub>_(Unregistered)_<sub><sub>
