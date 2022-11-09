@@ -1,2 +1,2 @@
-# Phobia PLC
-Private Limited Company  <sub><sub>_(Unregistered)_<sub><sub>
+# Phobia
+A little bit of Company <sub><sub>_(Unregistered)_<sub><sub>
