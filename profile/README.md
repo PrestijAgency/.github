@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <h1>💜P̴͈͛H̴͖̀O̶͓͆B̶̲͒I̴͈̽Å̸̠💜</h1>
+  <h1>💜Prestij Ajansı💜</h1>
   <h5></h5>
-  <img src="https://i.imgur.com/1giVMHW.jpeg" width="400" height="400"/>
+  <img src="https://prestij.eu.org/assets/img/about-visual.png" width="256" height="256"/>
 </div>
   
 <div id="visits" align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhobiaOrganization&style=flat-square&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=PrestijAgency&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
 ---
