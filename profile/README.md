@@ -14,4 +14,4 @@
 <h2>Bu organizasyonun amacı nedir?</h2>
 <p>Türkiye'nin teknolojik gelişimine katkıda bulunmayı hedefleyen bir sanal sivil toplum organizasyonu olarak, yüksek potansiyelli gençlerimizin teknoloji alanındaki becerilerini geliştirmeyi amaçlıyoruz. Bu amaç doğrultusunda organizasyon, eğitim, proje yarışmaları ve sosyal sorumluluk projeleri gibi faaliyetlerle gönüllülere destek sağlıyoruz.</p>
 <h2>Bize Katıl!</h2>
-<p>Teknolojiye ilgi duyuyor musunuz? Prestij Ajansı'na katılın! Gönüllü olarak, Türkiye'nin teknolojik gelişimine destek olun. Teknoloji eğitimleri, proje yarışmaları ve topluluk etkinlikleri ile bizimle birlikte fark yaratın. Geleceğinize teknolojiyle yön vermek için hemen bize <a href="https://prestij.eu.org">katılın</a>!</p>
+<p>Teknolojiye ilgi duyuyor musunuz? Prestij Ajansı'na katılın! Gönüllü olarak, Türkiye'nin teknolojik gelişimine destek olun. Teknoloji eğitimleri, proje yarışmaları ve topluluk etkinlikleri ile bizimle birlikte fark yaratın. Geleceğinize teknolojiyle yön vermek için hemen bize <a href="https://prestij.agency">katılın</a>!</p>
